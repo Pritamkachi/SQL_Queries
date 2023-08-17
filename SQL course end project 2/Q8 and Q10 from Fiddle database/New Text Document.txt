@@ -1,0 +1,13 @@
+Q8: Print the person's name with consecutive years (twice). 
+
+
+DB - https://www.db-fiddle.com/f/8Y61oCnyAkz64v3qFgVV4k/0
+
+
+Q10: We have a database with the name emp. The entire database has 3 tables: trainee, projectdetails, and projectallocation.
+
+The E.R. diagram of the database is given below:
+As a programmer write a SQL query to display details of all the trainee (traineeid, traineename, cgpa and technology trained) for the trainees who are eligible for .NET project but aren't allocated with any. Display the result in the increasing order of traineeid.
+
+DB - https://www.db-fiddle.com/f/vQepCw3A4RnpZMF3tP6rQm/0
+
